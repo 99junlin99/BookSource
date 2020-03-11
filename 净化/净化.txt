@@ -1,0 +1,47 @@
+[
+  {
+    "enable": true,
+    "id": 1,
+    "regex": "...看书的朋友，你可以搜搜“蓝色书吧”，即可第一时间找到本站哦。",
+    "replaceSummary": "蓝色书吧",
+    "replacement": "",
+    "serialNumber": 1,
+    "useTo": "http://www.lanseshuba.com"
+  },
+  {
+    "enable": true,
+    "id": 2,
+    "regex": "∞书香阁∞WWW.sHUXIaNgge.cc",
+    "replaceSummary": "书香阁",
+    "replacement": "",
+    "serialNumber": 2,
+    "useTo": "http://www.shuxiangge.cc"
+  },
+  {
+    "enable": true,
+    "id": 3,
+    "regex": "百度搜索【uc书盟】小说网站，让你体验更新最新最快的章节小说，所有小说秒更新。",
+    "replaceSummary": "uc书盟",
+    "replacement": "",
+    "serialNumber": 3,
+    "useTo": "http://www.uctxt.com"
+  },
+  {
+    "enable": true,
+    "id": 4,
+    "regex": "请收藏本站域名：http://www.yishuge.cc 防止遗忘，或在百度搜索“",
+    "replaceSummary": "一书阁1",
+    "replacement": "",
+    "serialNumber": 4,
+    "useTo": "http://www.yishuge.cc"
+  },
+  {
+    "enable": true,
+    "id": 5,
+    "regex": "　　”，谢谢大家捧场！",
+    "replaceSummary": "一书阁2",
+    "replacement": "",
+    "serialNumber": 5,
+    "useTo": "http://www.yishuge.cc"
+  }
+]
